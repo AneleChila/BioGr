@@ -35,12 +35,11 @@ BioGr is a Python application designed for biologists to analyze SBML models by 
   - `libsbml`
   - [Add any other necessary libraries here]
 
-To install `neo4jsbml`, you will need Anaconda or Miniconda. Then run:
-```bash
-conda install -c conda-forge neo4jsbml
+To install `neo4jsbml`, you will need Anaconda or Miniconda. Then run
+```conda install -c conda-forge neo4jsbml```
 
 To install the other Python dependencies, run:
-pip install neo4j python_cypher
+```pip install neo4j python_cypher```
 
 ## Usage
 
